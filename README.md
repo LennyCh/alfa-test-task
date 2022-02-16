@@ -1,3 +1,16 @@
+#SPA with a list of cards
+
+Each card displays an avatar, a person's name, and a city.
+
+There is a like icon on the card. Clicking on it puts or removes a like.
+If there is a like, then the icon is red.
+
+When you click on the cross in the upper right corner of the card, the card is deleted.
+
+There is a filter at the top. When you click on it, favorite cards are shown.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
