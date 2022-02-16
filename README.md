@@ -1,4 +1,4 @@
-#SPA with a list of cards
+# SPA with a list of cards
 
 Each card displays an avatar, a person's name, and a city.
 
